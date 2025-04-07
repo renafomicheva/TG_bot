@@ -1,3 +1,10 @@
-aiogram
+python-telegram-bot
 openai
 python-dotenv
+pydub
+SpeechRecognition
+ffmpeg-python
+aiohttp
+aiofiles
+magic-filter
+aiogram
